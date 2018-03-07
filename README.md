@@ -1,2 +1,2 @@
 # GoogleMantisQTest
-My attempts to master test automation using Selenium Web Driver
+This is an old example of test using Selenium Web Driver and C#
